@@ -72,5 +72,27 @@ To keep this space meaningful and fair, the following guidelines apply:
 These guidelines exist to encourage serious thinking,
 collaboration, and respectful knowledge building.
 
+---
+# Open Participation
+
+This repository is open to anyone.
+You do not need to apply, register, or seek permission to:
+
+"read problem prompts"
+
+"think through them"
+
+"contribute ideas or critiques"
+
+Participation here:
+
+"does not imply recruitment"
+
+"does not guarantee evaluation"
+
+"does not create obligations on either side"
+
+Some contributors may later be invited to collaborate more closely based on sustained public work. Most will simply use this space to learn and think — both outcomes are welcome.
+
 
 
