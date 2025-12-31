@@ -94,5 +94,7 @@ Participation here:
 
 Some contributors may later be invited to collaborate more closely based on sustained public work. Most will simply use this space to learn and think — both outcomes are welcome.
 
+Some contributors may later be invited into focused, time-bound paid exploratory work. This is not guaranteed and is not the purpose of this space.
+
 
 
