@@ -1,15 +1,14 @@
 # ai-open-problem-prompts
-Open, team-based AI problem prompts for collaborative development
+Open, team-based AI problem prompts for collaborative thinking and development
 
-## Non-Negotiable Participation Rule
+---
 
-❗ Solo repositories will not be reviewed or evaluated.
+## Purpose
 
-Only team-based repositories with a minimum of **5 contributors** are eligible for visibility, reviews, or any form of selection.
+This repository exists as an open thinking and collaboration space for exploring real-world AI problems through discussion, reasoning, critique, and collective problem-solving.
 
-This ecosystem is designed for collaboration, leadership development, and real-world teamwork.
-
-Repositories created or maintained by a single individual will be ignored without exception.
+This is not a hiring initiative, internship program, or evaluation drive.
+No applications, registrations, or permissions are required to participate.
 
 ---
 
@@ -18,83 +17,91 @@ Repositories created or maintained by a single individual will be ignored withou
 This repository operates under Layer 1: Open Global Teams.
 
 Anyone can:
-- Pick problem prompts
-- Form teams
+- Explore and analyze problem prompts
+- Form independent teams
 - Build public repositories
-- Collaborate internationally
-- Use work for learning and portfolio
+- Collaborate across countries and institutions
+- Use their work for learning and portfolio development
 
 Brain Train Consultancy Services LLP:
-- Observes public collaboration
+- Observes public collaboration only
 - Does not formally evaluate this layer
 - Does not promise employment, internships, or paid roles
 
 ---
 
-# Open AI Problem Prompts
+## Non-Negotiable Participation Rule
 
-This repository is an open thinking space.
+❗ Solo repositories will not be reviewed or evaluated.
 
-Anyone can read, think, and participate.
-No application is required.
-This is not a hiring drive.
+Only team-based repositories with a minimum of **5 active contributors** are eligible for:
 
-The purpose is to explore real-world problems through discussion,
-reasoning, critique, and collaboration.
+- Visiblity
+- Reviews
+- Any form of selection or recognition 
 
-There are no assignments.
-There are no correct answers.
-There are no deadlines.
+Repositories created or maintained by a single individual are ignored without exception.
 
-Some contributors may later be invited for deeper collaboration.
-Most participation here is simply for learning and growth.
+This rule exists to promote collaboration, leadership development, and real-world teamwork.
 
-This repository is open to anyone.
-You do not need to apply, register, or seek permission to explore these problems.
-Participation here does not imply recruitment or evaluation.
+---
+
+# What This Repository Is (and Is Not)
+
+This repository is:
+
+- An open space for structured thinking
+- A platform for collaborative exploration
+- A learning-first environment
+
+This repository is not:
+
+- A hiring drive
+- An internship program
+- A graded assignment system
+- A graded assignment system
+
+There are:
+
+- No assignments
+- No deadlines
+- No correct answers
 
 ---
 
 ## Participation Guidelines
 
-To keep this space meaningful and fair, the following guidelines apply:
+To keep collaboration meaningful and fair:
 
-- Resumes, CVs, and certificates are not accepted here.
-- Your first contribution must be one of the following:
-  - an original idea
-  - a thoughtful critique
-  - a conceptual model
+- Resumes, CVs, and certificates are not accepted.
+- First contributions must be one of the following:
+  - An original idea
+  - A thoughtful critique
+  - A conceptual model
 - Private messages are discouraged until a public discussion exists.
 - Credit must be given to prior contributors when building on ideas.
 - Forking and extending ideas is encouraged.
 - Direct copying without attribution is not acceptable.
 
 These guidelines exist to encourage serious thinking,
-collaboration, and respectful knowledge building.
+collaboration, and transparent knowledge building.
 
 ---
-# Open Participation
+# Open Participation Notice
 
-This repository is open to anyone.
-You do not need to apply, register, or seek permission to:
+Participation in this repository:
+- Does not imply recruitment
+- Does not guarantee evaluation
+- Does not create obligations on any party 
 
-"read problem prompts"
+Some contributors may later be invited for deeper collaboration based on sustained public work.
 
-"think through them"
+Most participation here is simply for learning, exploration, and growth. Both outcomes are valid.
 
-"contribute ideas or critiques"
+Occasionally, focused and time-bound paid exploratory work may be offered separately.
+This is not guaranteed and is not the purpose of this repository.
 
-Participation here:
 
-"does not imply recruitment"
-
-"does not guarantee evaluation"
-
-"does not create obligations on either side"
-
-Some contributors may later be invited to collaborate more closely based on sustained public work. Most will simply use this space to learn and think — both outcomes are welcome.
-
-Some contributors may later be invited into focused, time-bound paid exploratory work. This is not guaranteed and is not the purpose of this space.
 
 
 
