@@ -34,7 +34,7 @@ Brain Train Consultancy Services LLP:
 
 ❗ Solo repositories will not be reviewed or evaluated.
 
-Only team-based repositories with a minimum of **5 active contributors** are eligible for:
+Only team-based repositories with a minimum of **2 and  maximum of 5 active contributors** are eligible for:
 
 - Visiblity
 - Reviews
