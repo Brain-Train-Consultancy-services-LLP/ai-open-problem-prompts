@@ -49,4 +49,24 @@ There are no deadlines.
 Some contributors may later be invited for deeper collaboration.
 Most participation here is simply for learning and growth.
 
+---
+
+## Participation Guidelines
+
+To keep this space meaningful and fair, the following guidelines apply:
+
+- Resumes, CVs, and certificates are not accepted here.
+- Your first contribution must be one of the following:
+  - an original idea
+  - a thoughtful critique
+  - a conceptual model
+- Private messages are discouraged until a public discussion exists.
+- Credit must be given to prior contributors when building on ideas.
+- Forking and extending ideas is encouraged.
+- Direct copying without attribution is not acceptable.
+
+These guidelines exist to encourage serious thinking,
+collaboration, and respectful knowledge building.
+
+
 
