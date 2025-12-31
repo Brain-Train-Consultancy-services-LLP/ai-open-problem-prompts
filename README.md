@@ -29,3 +29,24 @@ Brain Train Consultancy Services LLP:
 - Does not formally evaluate this layer
 - Does not promise employment, internships, or paid roles
 
+---
+
+# Open AI Problem Prompts
+
+This repository is an open thinking space.
+
+Anyone can read, think, and participate.
+No application is required.
+This is not a hiring drive.
+
+The purpose is to explore real-world problems through discussion,
+reasoning, critique, and collaboration.
+
+There are no assignments.
+There are no correct answers.
+There are no deadlines.
+
+Some contributors may later be invited for deeper collaboration.
+Most participation here is simply for learning and growth.
+
+
