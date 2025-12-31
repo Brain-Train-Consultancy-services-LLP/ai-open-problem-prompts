@@ -49,6 +49,10 @@ There are no deadlines.
 Some contributors may later be invited for deeper collaboration.
 Most participation here is simply for learning and growth.
 
+This repository is open to anyone.
+You do not need to apply, register, or seek permission to explore these problems.
+Participation here does not imply recruitment or evaluation.
+
 ---
 
 ## Participation Guidelines
