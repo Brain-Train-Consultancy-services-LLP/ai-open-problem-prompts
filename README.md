@@ -12,6 +12,19 @@ No applications, registrations, or permissions are required to participate.
 
 ---
 
+## Prompt Areas
+
+Problem prompts are organized under the /prompts directory, covering:
+
+- AI Engineering
+- Data Engineering
+- Ethical & Societal AI
+- Infrastructure & ML Systems
+- Product & Policy-Oriented AI
+
+Each prompt is designed for open-ended exploration and team-based collaboration.
+---
+
 ## Participation Model
 
 This repository operates under Layer 1: Open Global Teams.
@@ -100,6 +113,8 @@ Most participation here is simply for learning, exploration, and growth. Both ou
 
 Occasionally, focused and time-bound paid exploratory work may be offered separately.
 This is not guaranteed and is not the purpose of this repository.
+
+
 
 
 
